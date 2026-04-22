@@ -76,8 +76,8 @@
 ## 📊 Στατιστικά GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=a.pliatsikas&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a.pliatsikas&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pliatsikas&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pliatsikas&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
