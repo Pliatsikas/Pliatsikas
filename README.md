@@ -86,7 +86,7 @@ status:     Always learning
 
 | Project | Description | Tags |
 |---|---|---|
-| **[Aura Immersive Web Experience](https://github.com/Pliatsikas/aura)** | Next-gen architectural portfolio with WebGL fluid simulations & custom shaders via Next.js + React Three Fiber | `WebGL` `Next.js` `Framer Motion` |
+| **[Aura Immersive Web Experience](https://github.com/Pliatsikas/aura-site-demo)** | Next-gen architectural portfolio with WebGL fluid simulations & custom shaders via Next.js + React Three Fiber | `WebGL` `Next.js` `Framer Motion` |
 | **E-Avenue Jira AI Copilot** | Intelligent workspace assistant using RAG to synthesize knowledge bases and historical Jira tickets for instant issue resolution | `Generative AI` `RAG` `NLP` |
 | **Rentalbook OCR Engine** | High-precision OCR pipeline that extracts data from passports & national IDs to automate user verification in real time | `OCR` `Computer Vision` `Automation` |
 | **Meatlab Concept Brand** | Visual system and landing concept for an industrial-style brand identity with reusable design tokens | `Branding` `UI System` `Prototype` |
