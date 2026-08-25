@@ -95,7 +95,7 @@ status:     Always learning
 
 | Project | Description | Tags |
 |---|---|---|
-| **[TaskFlow](https://github.com/Pliatsikas/TaskFlow)** · [🔗 Live](taskflow-client-lake.vercel.app) | Production Kanban SaaS — monorepo, REST API, JWT auth with refresh tokens, real-time drag & drop via WebSockets, deployed on Railway | `Next.js` `Node.js` `PostgreSQL` `Socket.io` `Docker` `TypeScript` |
+| **[TaskFlow](https://github.com/Pliatsikas/TaskFlow)** · [🔗 Live](https://taskflow-client-lake.vercel.app) | Production Kanban SaaS — monorepo, REST API, JWT auth with refresh tokens, real-time drag & drop via WebSockets, deployed on Railway | `Next.js` `Node.js` `PostgreSQL` `Socket.io` `Docker` `TypeScript` |
 | **[Aura Immersive Web Experience](https://github.com/Pliatsikas/aura-site-demo)** · [🔗 Live](https://aura-sand-pi.vercel.app/) | Next-gen architectural portfolio with WebGL fluid simulations & custom shaders via Next.js + React Three Fiber | `WebGL` `Next.js` `Framer Motion` |
 | **E-Avenue Jira AI Copilot** | Intelligent workspace assistant using RAG to synthesize knowledge bases and historical Jira tickets for instant issue resolution | `Generative AI` `RAG` `NLP` |
 | **Rentalbook OCR Engine** | High-precision OCR pipeline that extracts data from passports & national IDs to automate user verification in real time | `OCR` `Computer Vision` `Automation` |
